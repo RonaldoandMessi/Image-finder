@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(rgb(0, 191, 255),rgb(255, 234, 0),red);
+    color: black;
+}
+
+.heading{
+    width: 100%;
+    font-size:22px;
+}
+.name_of_objects,#resultobjectname,#objectaccuracy{
+    color: blue;
+}
+
+#cam{
+    border: 5px blue;
+    border-style: solid dashed double dotted;
+    width: 350px;
+    height: 300px;
+}
